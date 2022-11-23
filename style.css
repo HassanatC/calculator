@@ -97,6 +97,23 @@ audio {
     }
 } 
 
+@media only screen and (max-width: 1700px) {
+
+    .calculator-container {
+
+        min-width: 60vw;
+        min-height: 80vh;
+    }
+
+    .output {
+        
+        min-height: 13vh;
+        
+    }
+
+
+
+}
 
 
 
